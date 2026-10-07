@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Anmol Karn
+#  Hi, I'm Anmol Karn
 
 ### `Aspiring DevOps Engineer`
 
@@ -24,9 +24,9 @@
 
 ## 🧑‍💻 About
 
-Computer Science Engineering student focused on **DevOps, Cloud and Automation**.
+I'm a Computer Science Engineering student and aspiring DevOps Engineer with a strong interest in cloud infrastructure, containerization, CI/CD, and automation.
 
-Building practical skills through Linux, Docker, CI/CD and cloud projects.
+I enjoy building hands-on projects with Linux, Docker, GitHub Actions, and AWS, while developing practical skills in deploying, monitoring, and managing applications.
 
 ---
 
@@ -92,15 +92,6 @@ Building practical skills through Linux, Docker, CI/CD and cloud projects.
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/anmolkarn271/anmolkarn271/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 <div align="center">
 
