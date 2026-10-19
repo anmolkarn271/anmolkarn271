@@ -1,118 +1,178 @@
 <div align="center">
 
-#  Hi, I'm Anmol Karn
+# Hi, I'm Anmol Karn 👋
 
-### `Aspiring DevOps Engineer`
+### Aspiring DevOps Engineer | Cloud • Automation • CI/CD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Linux+%7C+Docker+%7C+CI%2FCD;Cloud+%7C+Automation+%7C+Monitoring;Building+DevOps+Projects+%F0%9F%9A%80" />
-
-<br>
+**Building, deploying, and automating applications with modern DevOps tools.**
 
 <a href="https://anmoldevops.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/anmolkarn">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/anmolkarn271">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
-
----
-
-## 🧑‍💻 About
-
-I'm a Computer Science Engineering student and aspiring DevOps Engineer with a strong interest in cloud infrastructure, containerization, CI/CD, and automation.
-
-I enjoy building hands-on projects with Linux, Docker, GitHub Actions, and AWS, while developing practical skills in deploying, monitoring, and managing applications.
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,githubactions,aws,nginx,python,javascript,react,nodejs,mongodb" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Linux+%7C+Docker+%7C+GitHub+Actions;AWS+%7C+CI%2FCD+%7C+Infrastructure;Learning+by+Building+Real+Projects+%F0%9F%9A%80" alt="DevOps typing animation"/>
 
 </div>
 
 ---
 
-## 🚀 Featured DevOps Projects
+## 👨‍💻 About Me
+
+I'm a Computer Science Engineering student working toward a career in **DevOps Engineering and Cloud Infrastructure**.
+
+I believe in learning by building. My focus is on developing practical skills through hands-on projects, troubleshooting real technical problems, and automating application deployment.
+
+* 🐧 Practicing Linux administration, Bash, and system troubleshooting.
+* 🐳 Building containerized applications using Docker and Docker Compose.
+* 🔄 Working with GitHub Actions and CI/CD workflows.
+* ☁️ Learning AWS infrastructure and cloud deployment.
+* 🌐 Exploring Nginx, reverse proxies, and load balancing.
+* 📊 Developing skills in monitoring, logging, and infrastructure automation.
+
+**Career goal:** Become a DevOps Engineer who can build reliable, automated, and maintainable deployment environments.
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
+
+### Operating Systems & Scripting
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python" alt="Linux Bash Python"/>
+
+### Version Control & CI/CD
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="Git GitHub GitHub Actions"/>
+
+### Containers & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx" alt="Docker AWS Nginx"/>
+
+### Application Development & Databases
+
+<img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" alt="JavaScript React Node.js Express MongoDB"/>
+
+</div>
+
+**Currently strengthening:** AWS, Python for DevOps, Terraform, Kubernetes, monitoring, and production deployment practices.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. InfraWatch — Linux System Monitoring
+
+A hands-on Linux monitoring project focused on observing system resources and practicing operational troubleshooting.
+
+**Key areas**
+
+* CPU, memory, and disk usage monitoring.
+* Bash scripting and threshold-based alerts.
+* Linux services and `systemd`.
+* System reports and operational diagnostics.
 
 <a href="https://github.com/anmolkarn271/InfraWatch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolkarn271&repo=InfraWatch&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Explore_InfraWatch-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore InfraWatch"/>
 </a>
+
+### 2. Task_Manager-DevOps — GitHub Actions
+
+A practical repository for learning and testing automated workflows using GitHub Actions.
+
+**Key areas**
+
+* Workflow configuration using YAML.
+* Automated execution of CI/CD jobs.
+* Debugging workflow and deployment failures.
+* Practicing repeatable automation.
 
 <a href="https://github.com/anmolkarn271/CI-CD">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anmolkarn271&repo=CI-CD&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Explore_CI%2FCD_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore CI/CD project"/>
 </a>
 
-</div>
+### 3. docker-task-manager — Containerized Application & Deployment
 
-<br>
+A full-stack task management application used to practice containerization, networking, load balancing, and deployment automation.
 
-<div align="center">
+**Technology:** React • Node.js • Express • MongoDB • Docker • Docker Compose • Nginx
 
-### 🐳 Docker Task Manager
+**DevOps implementation**
 
-`Docker` • `Docker Compose` • `Containers` • `Networking`
+* Containerized application services.
+* Docker Compose orchestration.
+* Two backend instances behind an Nginx load balancer.
+* Backend health checks and container restart policies.
+* Persistent MongoDB storage.
+* CI/CD and AWS EC2 deployment as the deployment goal.
 
 <a href="https://github.com/anmolkarn271/docker-task-manager">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Explore_TaskFlow_Ops-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore TaskFlow Ops"/>
 </a>
 
+*Note: Update this project description as you complete and verify the CI/CD and AWS deployment stages.*
+
+---
+
+## 🎯 My DevOps Learning Roadmap
+
+<div align="center">
+
+| Area                       | Focus                                         |
+| :------------------------- | :-------------------------------------------- |
+| 🐧 Linux                   | Shell, permissions, processes, services, logs |
+| 🔀 Git & GitHub            | Branching, merging, collaboration             |
+| 🐳 Docker                  | Images, containers, networks, volumes         |
+| 🔄 CI/CD                   | GitHub Actions, testing, automated deployment |
+| ☁️ AWS                     | IAM, EC2, S3, networking, CloudWatch          |
+| 🏗️ Infrastructure as Code | Terraform                                     |
+| ☸️ Orchestration           | Kubernetes                                    |
+| 📈 Observability           | Monitoring, metrics, and logging              |
+
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Statistics
 
 <div align="center">
 
-`🐳 Docker`   `🔄 CI/CD`   `☁️ AWS`   `🏗️ Terraform`   `☸️ Kubernetes`   `📊 Monitoring`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anmolkarn271&show_icons=true&theme=tokyonight&hide_border=true" alt="Anmol's GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkarn271&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=anmolkarn271&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Let's Connect
+
+I'm interested in learning from the DevOps community, collaborating on practical projects, and exploring fresher and internship opportunities in DevOps and cloud engineering.
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anmolkarn271&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-streak-stats.demolab.com?user=anmolkarn271&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
-<div align="center">
-
-### `Learn • Build • Automate`
-
-<br>
 
 <a href="https://anmoldevops.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-36BCF7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="https://www.linkedin.com/in/anmolkarn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:">
+  <img src="https://img.shields.io/badge/Open_To-Learning_&_Opportunities-2EA44F?style=for-the-badge" alt="Open to opportunities"/>
 </a>
 
-<a href="https://github.com/anmolkarn271">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=anmolkarn271&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile views"/>
 
-<img src="https://komarev.com/ghpvc/?username=anmolkarn271&style=flat-square&color=36BCF7&label=Profile+Views" />
+### `Learn. Build. Automate. Improve.`
 
 </div>
