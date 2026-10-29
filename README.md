@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anmol Karn
+# ANMOL KARN
 
 **Aspiring DevOps Engineer | Cloud Infrastructure | CI/CD**
 
@@ -76,11 +76,12 @@ A full-stack application for practicing containerization, service networking, pe
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anmolkarn271&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anmolkarn271&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkarn271&layout=compact&hide_border=true&theme=default" alt="Most used languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmolkarn271&layout=compact&hide_border=true&theme=default" alt="Most used languages" />
 
 </div>
+
 
 ---
 
